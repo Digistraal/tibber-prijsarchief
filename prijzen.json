@@ -36019,6 +36019,486 @@
       "startsAt": "2026-11-08T06:45:00.000+01:00",
       "total": 0.3972,
       "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T07:00:00.000+01:00",
+      "total": 0.4082,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T07:15:00.000+01:00",
+      "total": 0.4072,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T07:30:00.000+01:00",
+      "total": 0.4077,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T07:45:00.000+01:00",
+      "total": 0.3972,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T08:00:00.000+01:00",
+      "total": 0.4123,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T08:15:00.000+01:00",
+      "total": 0.4066,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T08:30:00.000+01:00",
+      "total": 0.3984,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T08:45:00.000+01:00",
+      "total": 0.3919,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T09:00:00.000+01:00",
+      "total": 0.4094,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T09:15:00.000+01:00",
+      "total": 0.404,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T09:30:00.000+01:00",
+      "total": 0.3942,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T09:45:00.000+01:00",
+      "total": 0.4013,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T10:00:00.000+01:00",
+      "total": 0.4009,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T10:15:00.000+01:00",
+      "total": 0.3898,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T10:30:00.000+01:00",
+      "total": 0.3879,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T10:45:00.000+01:00",
+      "total": 0.3898,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T11:00:00.000+01:00",
+      "total": 0.3888,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T11:15:00.000+01:00",
+      "total": 0.4016,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T11:30:00.000+01:00",
+      "total": 0.3887,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T11:45:00.000+01:00",
+      "total": 0.3943,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T12:00:00.000+01:00",
+      "total": 0.397,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T12:15:00.000+01:00",
+      "total": 0.3974,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T12:30:00.000+01:00",
+      "total": 0.3924,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T12:45:00.000+01:00",
+      "total": 0.3914,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T13:00:00.000+01:00",
+      "total": 0.4024,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T13:15:00.000+01:00",
+      "total": 0.3881,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T13:30:00.000+01:00",
+      "total": 0.3875,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T13:45:00.000+01:00",
+      "total": 0.3876,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T14:00:00.000+01:00",
+      "total": 0.3863,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T14:15:00.000+01:00",
+      "total": 0.3943,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T14:30:00.000+01:00",
+      "total": 0.3933,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T14:45:00.000+01:00",
+      "total": 0.415,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T15:00:00.000+01:00",
+      "total": 0.385,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T15:15:00.000+01:00",
+      "total": 0.4191,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T15:30:00.000+01:00",
+      "total": 0.4482,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T15:45:00.000+01:00",
+      "total": 0.4784,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T16:00:00.000+01:00",
+      "total": 0.4689,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T16:15:00.000+01:00",
+      "total": 0.4822,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T16:30:00.000+01:00",
+      "total": 0.4981,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T16:45:00.000+01:00",
+      "total": 0.5116,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T17:00:00.000+01:00",
+      "total": 0.5185,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T17:15:00.000+01:00",
+      "total": 0.5122,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T17:30:00.000+01:00",
+      "total": 0.5181,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T17:45:00.000+01:00",
+      "total": 0.5247,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T18:00:00.000+01:00",
+      "total": 0.5158,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T18:15:00.000+01:00",
+      "total": 0.5183,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T18:30:00.000+01:00",
+      "total": 0.5225,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T18:45:00.000+01:00",
+      "total": 0.5206,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T19:00:00.000+01:00",
+      "total": 0.5168,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T19:15:00.000+01:00",
+      "total": 0.5174,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T19:30:00.000+01:00",
+      "total": 0.5228,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T19:45:00.000+01:00",
+      "total": 0.5164,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T20:00:00.000+01:00",
+      "total": 0.5229,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T20:15:00.000+01:00",
+      "total": 0.5149,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T20:30:00.000+01:00",
+      "total": 0.4999,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T20:45:00.000+01:00",
+      "total": 0.4742,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T21:00:00.000+01:00",
+      "total": 0.4844,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T21:15:00.000+01:00",
+      "total": 0.4791,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T21:30:00.000+01:00",
+      "total": 0.4639,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T21:45:00.000+01:00",
+      "total": 0.4381,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T22:00:00.000+01:00",
+      "total": 0.4588,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T22:15:00.000+01:00",
+      "total": 0.4494,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T22:30:00.000+01:00",
+      "total": 0.4431,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T22:45:00.000+01:00",
+      "total": 0.4193,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T23:00:00.000+01:00",
+      "total": 0.4127,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T23:15:00.000+01:00",
+      "total": 0.3982,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T23:30:00.000+01:00",
+      "total": 0.4002,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-08T23:45:00.000+01:00",
+      "total": 0.3972,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T00:00:00.000+01:00",
+      "total": 0.4334,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T00:15:00.000+01:00",
+      "total": 0.4222,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T00:30:00.000+01:00",
+      "total": 0.4055,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T00:45:00.000+01:00",
+      "total": 0.3935,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T01:00:00.000+01:00",
+      "total": 0.4149,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T01:15:00.000+01:00",
+      "total": 0.4069,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T01:30:00.000+01:00",
+      "total": 0.411,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T01:45:00.000+01:00",
+      "total": 0.4066,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T02:00:00.000+01:00",
+      "total": 0.4068,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T02:15:00.000+01:00",
+      "total": 0.4115,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T02:30:00.000+01:00",
+      "total": 0.4115,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T02:45:00.000+01:00",
+      "total": 0.4043,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T03:00:00.000+01:00",
+      "total": 0.4072,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T03:15:00.000+01:00",
+      "total": 0.4056,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T03:30:00.000+01:00",
+      "total": 0.4078,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T03:45:00.000+01:00",
+      "total": 0.4029,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T04:00:00.000+01:00",
+      "total": 0.4032,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T04:15:00.000+01:00",
+      "total": 0.4024,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T04:30:00.000+01:00",
+      "total": 0.4074,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T04:45:00.000+01:00",
+      "total": 0.4115,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T05:00:00.000+01:00",
+      "total": 0.4045,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T05:15:00.000+01:00",
+      "total": 0.4027,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T05:30:00.000+01:00",
+      "total": 0.4155,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T05:45:00.000+01:00",
+      "total": 0.4434,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T06:00:00.000+01:00",
+      "total": 0.4015,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T06:15:00.000+01:00",
+      "total": 0.4553,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T06:30:00.000+01:00",
+      "total": 0.5208,
+      "currency": "EUR"
+    },
+    {
+      "startsAt": "2026-11-09T06:45:00.000+01:00",
+      "total": 0.5533,
+      "currency": "EUR"
     }
   ]
 }
